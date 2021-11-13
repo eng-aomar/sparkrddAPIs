@@ -1,0 +1,1057 @@
+
+
+
+Arab American University
+Faculty of Postgraduate studies
+strategic planning and fundraising
+
+
+MASTER THESIS PAPER
+
+“The Impact of Banking Sector on Economic Growth in the Palestinian Territories (2009-2019)”
+??? ???? ?????? ??????? ??? ????? ????????? ?? ??????? ?????????? (2009-2019)  
+Author Name: Ashraf Qasem
+
+e-mail:ashrafqasem@yahoo.com,0562501080.
+
+Supervisor Name: Dr. Naser Abdelkarem
+
+2021
+
+“The Impact of Banking Sector on Economic Growth in the Palestinian Territories (2009-2019)”
+
+
+Prepare:
+
+Ashraf Mohamad Salih Qasem
+
+BA in Accounting- An-Najah National University - Palestine
+
+
+
+Supervision: Dr. Naser Abdelkarem
+
+This thesis was presented to complete the requirements for obtaining a master's degree in strategic planning and fundraising, Arab American University.
+
+
+
+
+
+
+
+2021
+
+
+Dedication
+
+To those who showed me the way to take it, to those with whom I began the first letters of the language (to my father and mother, I dedicate my graduation).
+
+- To the winds of my life, this life without you is nothing, with you I am and without you I will be like anything, to those with pure hearts and innocent souls, to those who were my refuge after God, and in their presence, I spend the most beautiful moments (To my wife and children I give my graduation).
+
+- To those who have found a way with the soul. To those who share my joy, pray for me in the unseen, and love me well always. I dedicate my graduation (to my brothers, sisters, colleagues, friends and loved ones I dedicate my graduation).
+
+-To the one who stood on a pulpit of light and gave me and my colleagues the sum of his ideas to light my path (to Dr. Naser Abdelkarem and the faculty at the Arab American University I dedicate my graduation).
+
+- To the Virgin who bled the hearts of lovers, to the Lady who gives birth to martyrs and for whom the stabs of years’ weep, to the glory that was, and today has become ruins of mud and mud. To the first bride who wears her dignity, and men wear their last white gowns to her to challenge the universe longing for her (To beloved Palestine, its wealth, martyrs, captives, heroes, and freemen, I dedicate my graduation)
+
+Declaration
+
+I, the author of the thesis, acknowledge that it has been submitted to the Arab American University to obtain a master's degree, and that it is the result of my own research, except for what has been indicated wherever it appears, and that this thesis or any part of it has not been submitted to obtain any higher degree for any other university or institute.
+
+
+Signature: ___________________
+
+Name: Ashraf Mohamad SalihQasem
+
+Date: __________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+Acknowledgment
+
+
+Praise be to God alone, a praiseworthy of the majesty of his destiny and the greatness of his authority, and thanks to God first for the blessings he bestowed upon me. She was the best helper for me in completing this research.
+I extend my heartfelt thanks to (Dr. Naser Abdelkarem) for accepting the supervision of this message, whose correct guidance and valuable opinion had a great impact on its completion. I ask God for the wide good of His grace and that his effort be in the balance of his good deeds.
+I also extend my heartfelt thanks and great gratitude to everyone who helped me complete the research, especially to mention (Dr. Marwan Zohd, A. Aysar Nairat), may God reward them on my behalf.
+Thanks are extended to everyone who has done me a favor and helped me to complete this study, and I pray to God Almighty that I have succeeded in what He loves and is pleased with.
+
+
+
+
+
+
+
+
+
+
+Abstract
+
+The study examines the impact of banking sector on economic growth in Palestinian territories (2009-2019) ,The development of  the banking sector and its impact on economic growth has been studied through a set of indicators (total assets, banking sector deposits, credit facilities, profitability, percentage of credit facilities for deposits, number of banking sector branches, number of bank accounts), and their correlation with the indicators of economic growth represented by the gross domestic product.
+Measuring the role of the banking sector in stimulating economic growth is one of the most important research that must be carried out in order to develop strategic plans for the state’s economy, as the financing aspect of the economy is one of the most important factors for its success and growth.
+A descriptive and analytical approach was adopted through the statistical data obtained from the Palestinian Monetary Authority, the Palestinian Statistics Authority, the Palestinian Banks Association), as well as personal interviews conducted with specialists in the field of credit at banks operating in Palestine to identify the risks faced by the banking sector and the obstacles faced by the private sector in order to obtain the necessary funding.
+
+The results of the analysis show that there is a positive impact of the banking sector on economic growth during the study period. This is through the success of the banking sector in mobilizing the savings necessary for the lending process, which appears through the large increase in deposits, as well as the increase in the volume of credit facilities provided to the private sector, which means that the banking sector contributes to financing economic activity, as well as through the increase in the profitability of the banking sector, and the development in Increasing the assets of the banking sector, and the spread of the banking sector through the increase in the number of branches and bank accounts, has an impact on economic growth represented in the gross domestic product.
+The study recommends that the Monetary Authority focuses on developing the financial position of banks through encouraging integration, motivating the banking sector to develop its tools in order to mobilize the savings of the public, focusing on granting credit facilities to the productive sectors. providing guarantees to the banking sector to guarantee the credit facilities provided to the productive sectors, and finally the reducing interest rates on the credit facilities provided to the productive sectors.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+?????? ????????
+
+???? ??? ??????? ??? ?????? ??????? ?? ????? ????????? ?? ?????? (2009-2019) ? ??? ?? ????? ?????? ?? ?????? ??????? ????? ???? ??? ????? ?????????? ???? ?? ???? ?????? ?? ????????  ?? ?????? ??????? ( ????? ????????? ?????? ?????? ???????? ????????? ??????????? ???????? ???? ????????? ?????????? ???????? ??? ???? ?????? ???????? ??? ???????? ??????? ) ??????? ??? ???????? ??????? ????? ????????? ???????? ??????? ?????? ????????..
+?? ????? ???? ??? ?????? ??????? ?? ????? ????????? ?? ??? ??????? ???? ??? ?????? ??? ?? ???? ??? ??? ?????????? ???????? ????? ??????? ??? ????? ???? ??????? ?? ???????? ?? ??? ??????? ?????? ?????..
+?? ?????? ?????? ?????? ????????? ???????? ????????? ?? ??????? ??????? (???? ????? ?????????? ? ???? ??????? ?????????? ????? ?????? ??????????) ? ???? ??????? ????? ?? ?????? ?? ???? ???????? ??? ?????? ??????? ?? ?????? ?????? ??? ??? ??????? ???? ??????? ?????? ???????? ???? ???????? ??? ?????? ????? ?? ???? ????? ??? ??????? ??????.
+???? ????? ??????? ??? ???? ??? ?????? ?????? ??????? ?? ????? ????????? ???? ???? ??????? ? ???? ?? ???? ???? ?????? ??????? ?? ??? ???????? ??????? ?????? ??????? ????? ???? ?? ???? ??????? ??????? ??????? ? ????? ????? ??? ????????? ?????????? ??????? ?????? ????? ????? ???? ?? ?????? ??????? ???? ?? ????? ?????? ????????? ? ????? ?? ???? ??????? ?? ????? ?????? ??????? ??????? ?????? ?? ????? ???? ???????? ?????? ???????? ??? ?? ?????? ?????? ??????? ?? ???? ??????? ?? ??? ?????? ????????? ??????? ?? ????? ?? ????? ????????? ??????? ?? ?????? ?????? ????????. 
+????? ??????? ?????? ???? ????? ??? ????? ?????? ?????? ?????? ?????? ???????? ? ?????? ?????? ??????? ?????? ?????? ?? ???? ??? ?????? ???????? ???????? ??? ??? ????????? ?????????? ???????? ????????? ? ????? ???? ????? ?????? ?????? ?????? ??????? ????? ????????? ?????????? ??????? ???????? ???????????????? ????? ??????? ??? ????????? ?????????? ??????? ???????? ?????????.
+
+
+Table of Contents
+Chapter One	1
+The General Framework of the Study	1
+Introduction:	1
+Research Problem	3
+Research Significance and Justifications	4
+Research Objectives	5
+Chapter Two	6
+Literary Review	6
+1.	Theoretical Framework	6
+Definition of the Banking Sector	6
+Define Growth and Development and the Difference Between Them	8
+Economic Growth	9
+Economic Development	10
+The Relationship Between the Banking Sector and Economic Growth	10
+Indicators for Measuring the Development of the Banking Sector	14
+2.	Literature Review	18
+Research Questions and Hypotheses	25
+3.	Banking Sector and Economic Growth Indicators	26
+Economic Growth Indicators	26
+Banking Sector Indicators	29
+Chapter Three	46
+Research Methodology	46
+Research Tools	47
+Potential Obstacles	47
+Data Collection	48
+Chapter Four	49
+Study Analysis and Result	49
+Chapter Five	82
+Results and Recommendations	82
+Results:	82
+Recommendations	84
+Interview Questions	85
+Bibliography:	86
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter One
+
+The General Framework of the Study
+
+Introduction:
+
+Economic researchers have been interested in studying the relationship between the financial and banking system and economic growth because the banking sector constitutes a basic pillar in the process of development and economic growth. This is done through the role it plays in the process of collecting savings and financial resources from sectors and individuals with surplus of these resources and re-pumping these resources to sectors and individuals with a deficit in funding in an effective way that ensures the preservation of the interests of all sectors.
+
+Finding a comprehensive development requires the mobilization of all energies in the state in order to achieve what is planned, with the aim of raising the standard of living and the welfare of society. But the process of achieving the desired development differs from one country to another, depending on availability of financial resources, political and security stability in order to attract foreign investments, strong institutional systems, and an effective legal system which ensures the stability of the financial system and its ability to operate effectively and efficiently.
+The financial and banking sector is considered one of the strategic and influential sectors in the economies of countries, as researchers consider that the development in the banking sector is one of the basic and important factors which leads to economic growth, depending on the efficiency of its performance. This is because it is closely linked with the real economy.
+The study of the relationship between the financial and banking sector and economic growth dates back to the beginning of the last century, within a group of studies that emphasized the close relationship between development in the banking sector and economic growth.
+The banking sector is considered the most important in the financial sectors in Palestine, as it is the main component of the financial system. This sector witnessed an important development during the previous period by institutionalizing the Palestinian Monetary Authority, increasing its efficiency, and greatly expanding number of banks and branches as well as the diversity of the banking services they provide., This development was evident in the volume of credit facilities provided by the banking system for all sectors of production, real estate, and consumption.
+
+On the other hand, we see other financial sectors such as insurance companies, stock exchanges, mortgage, and leasing companies, are still in need to develop their activities in order to increase its contribution to economic growth. We believe that the financial inclusion strategy supervised by the Palestinian Monetary Authority and the Capital Market Authority is one of the most important initiatives that can bring about the desired change in order to stimulate these sectors to be effective in the process of economic growth and development.
+This study aimed to analyze the banking sector indicators and the extent to which they reflect on the macroeconomic indicators represented by the gross domestic product, in order to demonstrate the impact of this sector on economic growth.
+
+
+
+Research Problem
+
+ The impact of banking sector on economic growth is the key study should be done to develop strategic plans for the state's macroeconomics. Where financing for the economic process through the banking sector is one of the most important factors that stimulate the economy, which in turn leads to economic growth.
+
+The development of the banking sector will be studied for the period (2009-2019). The study will determine the effect of the banking sector on economic growth through studying its impact on the indicators of economic growth represented by the GDP. 
+
+The blurred relationship between the development of the banking sector and economic growth led to a search for the nature of the role that the banking sector should play to support indicators of economic growth and work to correct the shortcomings of the banking sector, which then led to its weak impact on economic growth.
+This study aims to answer the main question -what is the impact of the banking sector on economic growth in Palestine- by measuring the indicators of growth in the banking sector and linking them with the indicators of economic growth represented by the GDP, per capita GDP, this main question leads to the following sub-questions:
+1. What is the development that occurred in the banking sector during the study period?
+2. What is the nature of the relationship between the development of the banking sector and economic growth?
+3.  How does the development of the banking sector affect economic growth indicators?
+
+Research Significance and Justifications
+
+The importance of the study lies in the significant role the banking sector plays in accumulating savings and pumping those resources into financing productive sectors that contribute mainly to economic growth.
+
+Also, the financial and monetary policy makers need these studies, which aid in developing optimal strategic plans and financial and monetary policies, that are likely to increase/ influence on the effectiveness and efficiency of the Palestine economy. 
+
+There are many changes in the role of banks at the international level, causing a direct impact on its performance, especially in light of international agreements such as the GATT agreements. These changes create a challenge for the banks as the money needs to be re-employed in an optimal way. re-employment, in return, leads to the emergence of the need to search for new areas of investment and financing to develop revenues and meet the requirements of development (mona,1995). 
+
+
+
+
+Research Objectives
+
+This study aims to analyze and measure the role and impact of the banking sector on Palestinian economic growth and study the development in the banking sector through a set of indicators: total assets, profitability, net direct facilities, customer deposits, ratio of facilities to deposits, ratio of facilities to assets.
+Also study the indicators of economic growth (GDP, per capita GDP).
+These objectives can be achieved through:
+1. Analysis of the Palestinian banking sector.
+2. Analyzing the relationship between development in the banking sector and economic growth.
+3. Knowing the obstacles facing the productive sectors in obtaining financing from the banking sector.
+4. Knowing the risks to the banking sector in order to finance the productive sectors.
+
+
+
+
+
+
+
+
+Chapter Two
+
+Literary Review
+
+1. Theoretical Framework 
+
+Definition of the Banking Sector
+
+The banking sector is one of the most important components of the financial sector, this is due to the role it plays in recruiting and collecting funds for the purpose of selling them as facilities. The banks play the mediating role in the process of collecting savings and lending them in the form of credit facilities.
+Where (Abdul Malik, Jar Allah, 2010) knows the financial system is a complex unit consisting of many different parts, it is subject to a general plan that serves a general goal, the concept of financial system is composed of many components each one has its own perspective. so, the financial system includes all the interactions between financial institutions, investors, central banks, government authorities, the World Bank, and more. The banking sector has an effective role in stimulating the economy and its growth through the role it plays in mobilizing savings from savers who have excess funds. Banks do so by accepting funds, in the form of deposits, from savers seeking to make returns and pumping these funds into various investments and economic sectors seeking to finance and develop their projects. 
+The banking sector is also known as the group of banks operating in a country, these banks are classified according to the specialization and activity they perform such as commercial, industrial, agricultural, and real estate banks. Banks are also classified according to their ownership as public, private, and cooperative banks.
+
+Banks perform different functions, which vary according to the nature of the bank, and can be divided into three sections: 
+
+1. Central Banks
+
+Where the central banks perform several functions, including:
+• Issuing cash, as the central bank is the only party authorized to issue cash to the state, and the issuance is covered with gold or its value from assets from the major currencies in the world.
+• Reserves management.
+• Oversight of foreign currencies.
+• Supervising other banks.
+
+2. Commercial Banks
+
+Commercial banks perform several functions, including:
+• Accepting all kinds of deposits.
+• Granting loans and credit facilities.
+• Issuing credit cards.
+• Managing current accounts, transfers, check books, etc.
+• Providing investment portfolio management services and providing financial consulting services.
+• Issuing shares and bonds to public joint-stock companies.
+
+
+3. Specialized Banks
+
+The specialized banks grant loans and facilities to the economic sectors, according to specialization. These loans are medium-term, in contrast to commercial banks whose loans are short-term. These banks are established according to the state’s need, focusing on strategic plans to support and expand a specific sector. In other words, specific sectors are supported by establishing a specialized bank to provide various facilities.  In most cases, specialized banks support basic components of GDP, such as industrial, agricultural, and real estate banks.
+
+Define Growth and Development and the Difference Between Them
+The terms economic growth and economic development are frequently used terms in economics. Economic growth is the primary goal of economic sectors and individuals in order to increase their wealth, while economic development is among the priorities of governments to improve the livelihood of their societies and induce   positive changes in their lifestyle.
+
+Economic Growth
+Economic growth is defined as the increase in average per capita income over time, it represents the gross domestic product divided by the population of a country.
+Where (Simon Casent) defines economic growth as a long-term rise in the possibilities of displaying increasingly diverse economic goods to the population, where this growing potential is based on advanced technology and the institutional and ideological adjustment required for it.
+
+(John Renoir) defines economic growth as the gradual transformation of the economy by increasing production or welfare, so that the position the economy reaches is in one direction towards the increase in production or welfare.
+More precisely, economic growth can be defined as an increase in the country's gross domestic income, with all the increase it brings in real per capita income.
+Known by the American economist (Cousins), it is the effect of continuous increases in the production of material wealth, and investment in material and human capital, as well as technical progress and the efficiency of economic systems, are the primary sources of economic growth (Al-Masoudi Tawfiq, 2010).
+It appears from the definition of economic growth that it has the advantage of being long-term growth, and is sustainable through institutional and ideological adaptation, as it turns out, economic growth is the product of scientific policies and structures resulting from institutional work, not automatic work.
+
+Economic Development
+Development is known as the set of policies that a particular society takes and leads to increased rates of economic growth based on its own strengths to ensure that this growth continues to be balanced to meet the needs of members of society, and to achieve the largest possible degree of social justice.
+Development is considered changes that take place in a society with its economic, political, social, intellectual, and organizational dimensions in order to provide a decent life for all members of society.
+From the previous definition of growth and development, it is clear that the concept of economic development is more comprehensive than economic growth. Economic growth is an automatic process, but economic development is a pre-planned process to change the structural structure of society to provide a better life for individuals. economic growth also focuses on the quantity or size that a person gets from goods and services, while development is concerned with the quality of goods and services.  Economic growth is not concerned with the form of total income distribution among individuals. On the other hand, economic development is concerned with increasing the average income per person.
+
+The Relationship Between the Banking Sector and Economic Growth
+Banking systems are among the most important inventions of modern societies, due to the fundamental and important role they play, It is through the role of the intermediary that these banks play among the depositors who constitute the money supply side of the banking system, And borrowers who make up the demand side of this money, The banking system is an important mechanism for collecting small and scattered savings and making them available for companies to finance their investment and operational activities, or for families and individuals to finance the purchase of housing, durable goods, education, etc..  This is in addition to mediating the implementation of all financial transactions with the outside for the purposes of investment, trade, and transfers, as it seeks to attract external deposits, increasing its financing capacity.  This role helped separate the savings decision from the investment decision, It also plays its primary role in financing investment through the credit facilities and bank loans it provides to the national economy for all sectors operating in the country, It also finances the establishment of viable investment projects, and provides the necessary loans to finance the expenditures of the productive sector in general, And it highlights the financing and investment role of banks and their work to stimulate economic development by providing many banking tools and products, and directing the credit policy of these banks to suit the investment and economic environment of each country,  The credit policy of private banks is governed by the profit law, often in the short term, due to the nature of its deposits to avoid the risk of a liquidity crisis (Abdel Karim, 2018).
+In the literature on the relationship between the role of the banking sector in economic growth, three schools of thought or hypotheses have emerged:
+1. Structuralism School
+
+The assumptions of this school belong to (Gurly and shaw, 1960) and (Goldsmith, 1969), who called for encouraging the growth and expansion of the banking system institutions, increasing the   diversity of financial instruments, and making such financial services more widespread. Such methods are the most effective in achieving financial growth, in this school of thought, as it promotes economic growth, while the lack of financial developments impedes economic growth (MAS, 2017).
+He crossed both (Gurly and shaw 1960) In their book (Money in money theory) On the importance and sensitivity of the role the financial sector plays in achieving economic growth, they argued that a diversified and developed financial system would allow for a more efficient allocation of financial resources and would lead to economic growth. Financial development allows more concentration of savings within the financial system, and increases competition among financial intermediaries, thanks to the diversity of financial institutions, which allows an optimal allocation of savings towards investment by the market.
+
+
+2. New-Liberals School
+
+This school is based on the theory of emancipation from the financial and banking sector, which leads to its development, and consequently to economic growth, this theory assumes loosening government restrictions on the financial system.
+The first start of this theory was from Show (1973) and Mikinnon (1973) (mikinnonn ,1973), Both economists assumed that high real interest rates guarantee high levels of savings available to the economy, and this leads to increased investment spending, which leads to high rates of economic growth.
+
+
+
+3. School of Endogenous Growth Model 
+
+This school focused on the role of financial intermediation in economic growth within the framework of internal growth models.
+Internal growth models in one of its branches were concerned with the relationship between financial intermediation and economic growth. The internal growth models focused on studying the factors affecting economic growth in the long run, she highlighted that financial intermediation affects growth through a group of channels, which includes the impact of financial development on investment rates, the efficiency and allocation of financial resources, the rate of productivity growth and finally its impact on the level of savings (MAS, 2017).
+This theory indicates that the development in the financial and banking system contributes to the process of economic development through its ability to reduce the severity of the cost of information, mitigate risks through diversity and risk sharing, and increase the effectiveness and efficiency of allocating financial resources towards more productive investments.
+
+In the context of the difference between economic views in analyzing the relationship and the role that the banking sector plays in achieving economic growth, we note that there are different opinions that summarize the relationship between the development of the banking and financial sector in economic growth.
+The first trend looks at the development of the banking sector that leads to an increase in the accumulation of savings, which are granted as facilities for economic sectors, which leads to stimulating economic growth.
+The second trend looks at economic growth leads to increased demand for financial services, and thus the growth of financial assets that lead to the development of the banking and financial system.
+The third trend looks at a two-way causal relationship, which tends from the banking and financial sector to economic growth, especially in developing countries or in the early stages of economic growth, while it tends from economic growth to development in the banking and financial sector in developed countries or in late stages of growth.
+
+Indicators for Measuring the Development of the Banking Sector
+
+The researchers used a set of indicators to measure the development of the banking sector, including those that reflect the size and depth of this sector, as well as its efficiency and effectiveness, as well as those related to activity and stability. This study utilizes a set of indicators to measure and characterize the banking sector and determine its advantages and weaknesses. These indicators can be classified as follows:
+
+1. Size and Depth
+This dimension shows the size of the banking sector compared to the overall economy, through a set of indicators that measure this dimension:
+
+? The index of financing directed to the productive sectors as a percentage of the gross domestic product GDP:
+This indicator reflects the extent of the banking sector's contribution to financing the productive sectors, so that the relationship is direct between them, that is, the more the bank financing of the productive sectors as a percentage of the gross domestic product, the more the economic growth, And the opposite is true, that is, the lower the bank financing to the productive sectors as a percentage of GDP, the slower the economic growth.
+
+? Index of total banking sector assets to gross domestic product GDP:
+This index is considered to be deeper and more comprehensive than the financing index from the banking sector directed to the productive sectors as a percentage of the gross domestic product, Because it includes funding for the government and other sectors, including loans for individuals, So that the direct relationship between the total assets of the banking sector as a percentage of gross domestic product and economic growth, i.e. the greater the total assets of the banking sector as a proportion of GDP, the greater the economic growth, and vice versa.
+
+? Index of total deposits in the banking sector to gross domestic product GDP:
+This indicator shows the amount of cash on hand at the banking sector, which is available for lending by the banking sector and pumped into the productive sectors, so that the relationship between the total deposits in the banking sector as a percentage of the gross domestic product and economic growth, that is, the greater the total deposits in the banking sector as a percentage of the gross domestic product, the greater the economic growth, and vice versa.
+
+2. Efficiency and Effectiveness
+
+The banking sector seeks to achieve its goals through optimal planning to manage its resources within a clear policy, so that it seeks to achieve its goals in the best way, and with high efficiency through the use of effective systems and policies, where this dimension measures the extent of the effectiveness and efficiency of the banking sector in order to achieve its goals, and we will clarify one of the Indications for this:
+
+? Banking Sector Profitability Index
+This indicator measures the margin of interest between interest rates on lending and interest on deposits with the banking sector, As the margin value reflects the effectiveness of the banking sector, So that the greater the margin, the greater the cost of obtaining financing, And the opposite is true, i.e. the lower the margin, the lower the cost of financing, that is, the higher the effectiveness of the banking sector, the higher the financing cost, which limits the volume of financing due to the increase in the cost of obtaining it, That is, the effectiveness of the banking sector in achieving profitability is an inverse relationship with economic growth. The lower the profitability of the banking sector, the greater the economic growth, and vice versa.
+
+
+
+
+3. Activity
+
+This dimension measures the extent of banking services, and the use of their products by individuals and institutions. Some of the indicators for this are:
+
+? Index of the number of bank accounts per thousand individuals:
+As this indicator measures the extent to which individuals understand the banking activity and its importance, and then the extent of its use of the services provided by the banking sector, So that the direct relationship between the number of bank accounts per thousand individuals and economic growth increases. The more the number of bank accounts per thousand people, the more economic growth will increase, and vice versa.
+
+? Index of the number of branches of the banking sector compared to the population:
+Where this indicator measures the prevalence of banking services among the population and their availability among individuals and institutions and the ease of obtaining banking services, so that the relationship is direct between the number of branches of the banking sector and its ratio to population and economic growth, so the higher the number of branches relative to the population, the more economic growth.
+
+4. Stability
+This dimension measures the stability of the banking sector and its ability to maintain the liquidity needed to create stability in its operations. Some of the indicators for this dimension are:
+
+? Index of the volume of lending to deposits in the banking sector:
+This indicator measures the availability of liquidity in the banking sector, As the lower the loan-to-deposit ratio, the better the liquidity ratio, which indicates stability in the banking sector, so that the direct relationship between the ratio of lending to deposits and economic growth, that is, the greater the volume of lending to deposits, the less liquidity will result in this increase in economic growth.
+
+2.  Literature Review
+
+The effect of the banking sector in stimulating economic growth has been studied internationally, regionally, and locally, in this field, we review these studies to benefit from them in developing scientific research in the study of the banking sector and its role in economic growth, by studying the case of Palestine and linking it to international and regional studies. 
+ (rajan & zingales ,1998) It is considered one of the main and important studies in the field of studying the relationship between economic growth and development in the financial sector in the United States of America. The results of the study showed that the increase in financial growth was a catalyst in increasing the economic growth rates of the sectors that depend on financing from the banking sector. The study assumes that the more developed financial markets and the banking sector are more capable of providing the required financing for the industrial sectors. It also showed that financial growth is a function of a set of organizational variables that were of strong positive statistical significance along with economic growth. This indicates the positive relationship between the development in the financial and banking sector and its impact on economic growth.
+
+ kenzy (2016) studied the impact of financial sector development on economic growth in both developed and developing countries using panel data. She studied the impact of mediation and financial markets on economic growth., The study relied on the World Bank database and the quality of government institute (QOG). It included six variables: loans directed to the private sector in relation to the gross domestic product, the monetary mass (M2) as a percentage of the gross domestic product, the total assets of commercial banks to the total assets of the central bank to the gross domestic product, and the capitalization of the stock exchange as a percentage of the gross domestic product, The index of the volume of securities traded as a percentage of GDP, and the turnover rate, In addition to using the growth rate of real GDP as a rate of economic growth, The Panel data analysis method was used which included unit root tests on the Panel data, And testing the causal relationship and estimating the static Panel model using the static and random effect model and the dynamic effect based on the error correction model, The study concluded that the financial sector exerts negative moral and homogeneous effects on economic growth in both developed and developing countries, Financial market indicators have a negative and significant effect in the case of developed countries, and a positive and homogeneous effect in the case of developing countries, Also, through the causation test, it was found that there is a two-way relationship between development in the financial sector and economic growth in both developed and developing countries, As the financial system exerts a negative impact on growth in the case of developed countries, especially since the economies of these countries are more open than the economies of developing countries, Consequently, it is more vulnerable to banking fluctuations and crises that marginalize the role of the financial system, As for developing countries, financial intermediation has a negative impact on growth as a result of implementing financial liberalization policies.
+
+In his study, Under the title The Impact of Financial Sector Development on Economic Growth in Jordan for the Period (1978-2004), (Soufan, (2008) aims to determine  source of economic growth in Jordan, in addition to identifying the links between the impact of the development of the financial sector in stimulating the rate of economic growth, The study applied two types of analysis: Descriptive statistical analysis, through analyzing indicators that reflect all aspects of the financial sector development, represented by the banking sector and the Amman Stock Exchange, The study revealed that the Jordanian banking sector has the ability to mobilize savings and provide financing needs, As for the future of the Amman Stock Exchange, it is linked to the political development in the region, As for the second type of analysis, it is the standard analysis using the log-linear model to estimate economic growth through liquidity indicators that reflect the development of the financial sector, The study concluded that there is a positive impact of the development of the financial sector in stimulating economic growth.
+
+In this study the Impact of Financial Development on Economic Growth in the Kingdom of Saudi Arabia,,Al-Qadeer, 2003, This study aimed to show the causal relationship between financial development and economic growth in the Kingdom, using Grainger's methodology and the error correction model, The study relied on statistical data issued by the Saudi Arabian Monetary Agency, The joint complementarity test indicated the existence of a long-term equilibrium relationship between financial development in its various measures and the rate of economic growth, The causality test based on the error correction model revealed a two-way causal relationship between financial development and economic growth, Causality tests have also shown that changes in economic growth help explain changes in financial development, Changes in financial development also help explain changes in economic growth.
+
+ In this study the reality of the Saudi banking sector and its role in achieving economic growth and the challenges it faces for the period (2006-2016),Ban Ali Hussain, 2017 , noted that the period from 2006-2016 in the consolidated financial position of commercial banks in terms of assets has characterized by an increase in the total deposits made from current and regular deposits and others in Saudi Arabian Monetary Agency due to the high level of the local economy activity, including the private sector, and the improvement of economic fundamentals, in addition to good management of commercial banks for their financial resources. At the level of the stock market Performance, the number of listed companies and the market capitalization of the stock have increased due to the increase in the price indices of the majority of the companies listed on the Saudi Stock Exchange. Further, the money supply for the same period also has achieved a remarkable growth due to the improvement in banking intermediation, which experienced a decline in the growth of cash in circulation despite the high growth in the broad money supply.
+
+
+In a study the role of the banking sector in developing the Palestinian economy, according to the size of challenges which faces the requirements of developing the Palestine economic (Ali shahen, 2006). appears the role of banking sector as a partner in the economic management and to finance the economic development plan. So, it is important to explore all the sources and possibilities to execute the monetary and barking policies to enable this sector for fulfilling his role in the financial mediation, The major cause of banking operation's role in the development process is depending upon the reform procedures belonging to banking, finance, legislation and a comprehensive structure, Also to overcome on the weakness of banking sector and applying the international banking standards to support in the development of banking operation for financing and developing the national economy.
+
+In a study the financing role of Iraqi banks in achieving economic growth (Hasan k hamza , 2015), finds  a banking sector sophisticated essential ingredient to achieve sustainable growth, not the private sector developed without the support and support from the banking sector, the Iraqi banking sector today lives stage banking reform to make it more efficient and effective, we have been studying the financial indicators for this sector to stand by and compared with indicators similar her at the Arab and international shows it with aspects of reform in some of them, while still other far from international indicators standard, found the relationship between the credit extended to the private sector and growth in Iraq and turned positive relationship between the two variables, as research has reached some conclusions and recommendations necessary.
+
+In a study the Impact of Banking Sector Development on Economic Growth: Empirical Analysis from Palestinian Economy,(Abusharbeh, Mohammed, 2017), This study examined the development of the banking industry and its support for Palestinian economic growth, this study examines the effect of some indicators of the banking sector, (Credit facilities, customer deposits, number of branches, interest rate) on gross domestic product, using quarterly data for the period 2000-2015, the model was implemented using the regression square to demonstrate that the gross domestic product is affected by the strengthening of the banking sector, bank loans are positively linked to economic growth, this indicates that banks tend to improve the productive capacity of the Palestinian economy, the interest rate, customer deposits, and number of branches did not significantly affect economic growth, the result of this paper is that there is a significant importance and impact of credit policy in the banking sector on economic growth in Palestine.
+
+In a study the effect of development on the Palestinian financial system on Palestinian economic growth (2008-2015) (MAS, 2017), This study investigates the issue of the impact of the development of the financial sector on economic growth in Palestine(2008-2015), the study aimed to measure the impact and analysis of development in the banking system and the development in the Palestine Securities Exchange on growth economic, using a set of indicators it represents the extent of development of both banks and the financial market, based on previous theoretical and applied studies, and that it included three variables: Loans to the private sector in relation to GDP, and the cash block as a percentage of GDP, and the volume of trading in the financial market to GDP, well to use average per capita real GDP as a representative of economic growth, the result of the study showed that there is a positive impact of the development of the Palestinian financial sector in stimulating economic growth during a period studying, this effect is shown in the banking sector through an increase in the proportion of credit facilities granted to the private sector with regard to GDP, which reflects the role of banks in financing private sector activity, and the field of Palestine market for securities, the study concluded that the trading volume on the Stock Exchange does not affect economic growth, the study recommends focusing on the financial sector performance in converting savings into productive investments, and focusing on credit facilities provided to the private sector as it contributes to raising the rate of economic growth.
+
+
+We note, through reviewing previous studies, that there is a relationship between development in the financial and banking sector and economic growth, based on a set of indicators that were discussed in the previous studies mentioned above, Where there was a positive relationship between indicators of financial sector development and economic growth, Bank loans to the private sector are positively correlated with economic growth, This indicates that the credit policy in the banking sector greatly affects economic growth, Previous studies also showed that the indicators of customer deposits, the number of branches, and the interest rate did not significantly affect economic growth, In addition to that, there is no effect of the stock market on economic growth, Studies have also revealed a variation in the impact of the financial sector on economic growth between developed and developing countries, Studies have shown that the impact of the banking sector is positive on economic growth in emerging markets in developing countries, Studies have also shown that there is a two-way causal relationship between development in the financial sector and economic growth, As changes in economic growth help explain changes in financial development, and changes in the financial sector explain changes in economic growth.
+Through reviewing previous studies and their results and recommendations, this study came to examine the impact of the banking sector on economic growth in Palestine for the period (2009-2019) stemming from the importance of this sector in financing the economic sectors with the necessary credit facilities in order to develop their performance and contribution to Gross domestic product, As the banking sector is considered the most effective among other financial sectors, due to the absence of a bond market, and the weakness of the stock market and other financial sectors falling under the umbrella of the Capital Market Authority, Also, my study comes within the framework of accumulating local studies that have researched on this subject, bearing in mind that this study relied on recent data for the period (2009-2019), which were not covered by previous studies.
+
+Research Questions and Hypotheses
+
+Based on previous theories and studies, which examined the impact of the banking sector on economic growth, this study aims to answer the main research question which is (What is the impact of the Palestinian banking sector on economic growth during the period 2009-2019), Within the hypothesis that there is a statistically significant effect of the banking sector on Palestinian economic growth, which subdivides the following sub-questions:
+1. What is the development that occurred in the banking sector during the study period?
+2. What is the nature of the relationship between the development of the banking sector and economic growth?
+3. What is the deficiency of the banking sector, which led to its inability to support economic growth effectively?
+4. What are the obstacles that led to the limited access of the productive sectors to bank financing?
+The study hypotheses will be:
+H1: There is a statistically significant relationship for banking sector indicators on gross domestic product (GDP)
+
+3. Banking Sector and Economic Growth Indicators
+Economic Growth Indicators
+The rate of GDP growth during the period from 2009-2019, the following figure shows the growth rates during the study period.
+
+
+Source: Palestinian Statistics Authority / National Accounts.
+
+The graphic shows an increase in GDP from approximately $8 billion in 2009 to $17 billion in 2019, an increase of 112% during the study period.
+In a presentation of the gross domestic product by productive sector, the following table shows this during the period from 2009-2019.
+
+
+
+
+
+
+
+Table 2.1: GDP by productive sector during the period 2009-2019 (million $)
+
+Economic activity20092010201120122013201420152016201720182019Sum of Agriculture and fishing810.30871.60933.20989.601,027.001,096.101,035.201,171.401,135.501,197.901,208.60Sum of Mining, manufacturing, electric. and water1,154.701,442.201,593.801,864.701,876.501,788.701,629.701,873.402,239.702,151.302,203.60Sum of Construction265.00361.10524.20605.80631.80725.50665.30786.00862.00987.50954.60Sum of Wholesale and retail trade, repair of motor vehicles and motorcycles1,247.301,600.702,103.002,286.502,423.802,705.602,760.002,999.003,265.803,616.403,948.90Sum of Transportation and storage146.80154.90178.60213.60239.00249.20257.40276.80297.30294.50289.00Sum of Financial and insurance activities270.80307.40341.20416.80359.00398.30422.60542.40599.30677.70685.50Sum of Information and communication456.10526.70593.30629.90733.50543.00549.80519.10520.70538.60529.00Sum of Services1,507.301,685.902,012.802,240.702,610.402,653.802,681.103,011.302,976.803,251.403,604.30Sum of Public administration and defense1,044.301,304.801,501.101,528.601,840.402,036.101,940.802,034.801,847.301,377.901,404.80Sum of Households with employed persons3.705.706.006.207.107.506.907.207.705.808.70Sum of Financial Intermediation Indirectly Measured-----------Sum of Customs duties478.30593.10604.60596.80662.60671.20780.40862.001,089.701,205.501,258.00Sum of VAT on imports, net701.10827.40794.30829.201,104.401,114.701,243.201,322.001,286.20972.101,038.50Gross Domestic Product8,085.79,681.511,186.112,208.413,515.513,989.713,972.415,405.416,128.016,276.617,133.5Source: Palestinian Statistics Authority / National Accounts.
+
+The table shows the distribution of GDP by sector, as it shows that the productive sectors do not represent more than (20%) of the total GDP, and that the trade and services sector constitute a great majority of the GDP.
+
+As for the per capita GDP, the following figure shows this during the study period.
+
+
+Source: Palestinian Statistics Authority / National Accounts
+
+The figure shows that the per capita GDP has increased during the period from 2009-2019, as it increased from (2193) dollars in 2009 to (3,656) dollars in 2019, an increase of (67%) during the study period.
+
+Banking Sector Indicators
+
+The Palestinian Monetary Authority supervises the work of the banking sector according to the Palestinian Monetary Authority Law No. (2) of 1997, In addition to the Banking Law No. (9) of 2010, which gave the Monetary Authority independence and legal status in order to formulate and implement financial and monetary policy to ensure the safety of the banking sector, which contributes to achieving economic growth.
+The Monetary Authority has worked on developing the banking sector through the development of laws and regulations regulating the work of banks in order to develop and expand the operations of banks, such as control systems, payments, checks, money laundering, etc., In addition to increasing the minimum capital of banks to become (75) million dollars in 2015, in order to raise the efficiency of this sector and develop the services it provides, based on technological techniques, in order to reduce cost and time.
+The number of operating and licensed banks in the Palestinian territories reached (13) banks, as the number of banks decreased compared to 2009, but the indicators of the banking sector indicate an increase in spread through the increase in the number of branches and ATMs and the number of bank accounts and others, the following table shows this expansion in the banking sector between 2009-2019.
+
+Table 2.2: Expansion in the banking sector during the period 2009-2019 
+
+YearNumber of BanksNumber of branchesNumber of ATMNumber of accounts per 1000200920209305-201018212333-201118226378617201217232435642201317237488635201417258549625201516274592649201615309622669201715337644678201814351690715201914370715741Source: Palestinian Monetary Authority / annual reports
+
+As for the assets of the banking sector, the following table and figure shows the development of assets during the period from 2009-2019
+Source: Palestinian Monetary Authority / annual reports
+
+The figure shows that the assets of the banking sector are increasing during the study period, as it increased by (120%) between 2009-2019.
+
+On the side of the liabilities of the banking sector, the following figure shows the trend of the liabilities of this sector during the study period.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The data indicate that the banking sector's liabilities are increasing during the study period, increasing by (125%) during the period from 2009-2019.
+In the aspect of shareholders' equity of the banking sector, the following figure shows the trend of shareholders' rights for this sector during the study period.
+
+Source: Palestinian Monetary Authority / annual reports
+
+The figure indicates that the shareholders' equity for this sector has increased during the study period, as the shareholders' equity increased by (84%) during the period from 2009-2019.
+
+As for the profitability index of the banking sector during the period from 2009-2019, the following figure shows the development of the banking sector's profits.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The profitability data of the banking sector indicates an increase of (54%) during the period from 2009-2019.
+
+Banking sector deposits
+The banking sector deposits index is one of the indicators that indicate the depth in the banking sector, as it indicates the ability of this sector to mobilize the savings of the public and convert them into productive funds, by directing them to the productive sectors. The following figure shows the development of deposits during the study period.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The figure shows that total deposits increased by (113%) during the period from 2009-2019, knowing that this increase in deposits is due to the increase in private sector deposits, while public sector deposits decreased by (11%) during the same period.
+
+Credit facilities
+Credit facilities are the main component of the banking sector assets. The following figure shows the development of credit facilities during the study period.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The data indicate an increase in credit facilities during the period from 2009-2019 by (305%), which is a significant development in the volume of facilities during this period.
+
+In the distribution of these credit facilities between the public and private sectors during the study period, the following figure shows this development during the study period.
+
+
+Source: Palestinian Monetary Authority / annual report
+
+The data indicate that (83%) of the credit facilities were directed to the private sector in 2019.
+In the distribution of these credit facilities by productive sector during the study period, the following table shows this distribution.
+
+Table 2.3: distribution of the credit facilities by productive sector during the period from 2009-2019 (million $)
+
+Sector20092010201120122013201420152016201720182019Total public sector 637.4837.21101.11407.41373.71239.81456.01418.91476.01316.81557.4Total private sector 1596.52048.62449.62791.83106.43655.34368.65453.06550.07115.57477.8Real estate and constructions221.5331.6411.5589.5650.4790.1952.51213.41389.11605.71711.8Land development44.776.729.741.757.141.0128.5156.2231.5255.4302.6Mining and manufacturing184.8257.9303.7173.8222.2257.2264.3299.3396.3443.5477.7Local and foreign trade finance341.3392.2489.6503.2612.3744.6941.91103.31405.31569.61530.0Agricultural and food processing 38.645.333.735.138.346.573.3125.0124.1140.6149.7Tourism, hotels, restaurants, and swimming39.347.950.057.958.959.972.087.168.592.780.9Transportation24.819.022.622.721.830.220.233.729.138.927.6Business and consumer services400.8457.5295.3267.4242.0374.4402.0605.6868.4864.0937.5Securities purchasing and carrying 56.252.466.361.350.229.017.45.716.820.936.6Cars & vehicles finance57.085.7111.4113.8130.5165.1200.7229.3292.9302.9369.7Consumptions76.6144.3415.2783.0885.6921.71088.41366.31399.21324.71368.1Others in private sector110.9138.1220.7142.5136.9195.7207.4228.2328.7456.7485.6Total private and public sector2233.92885.83550.74199.34480.14895.15824.76871.98026.08432.39035.2Source: Palestinian Monetary Authority / annual reports
+
+The table shows that the credit facilities directed to the productive sectors (industrial, agricultural, tourism) do not exceed (8%) of the total credit facilities in 2019, and that the majority of credit facilities are directed to consumer loans, trade finance, real estate, construction, and the public sector.
+
+Capital Structure Indicators
+
+Total Liabilities/Total Assets
+The following figure shows the total liabilities to the total assets of the banking sector during the study period.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+It appears that this percentage has increased slightly during the study period.
+
+Credit facilities/total shareholders' equity
+The following figure shows the total credit facilities to the total shareholders' equity during the study period.
+
+Source: Palestinian Monetary Authority / annual reports
+
+It appears that this percentage has increased significantly during the study period, as it increased from (217%) in 2009 to (422%) in 2016.
+Banking Sector Profits/Total Shareholders’ Equity
+The following graphic shows the net profits of the banking sector to the total shareholders' equity during the study period.
+
+
+Source: Palestinian Monetary Authority / annual reports
+The graph indicates that the ratio of profits to shareholders’ equity is decreasing during the study period, as it decreased from (9%) in 2009 to (7%) in 2019. This indicates that the return on shareholders’ equity is declining during this period.
+liquidity indicators 
+Customer Deposits/Total Assets
+The following figure shows customer deposits to the total assets of the banking sector during the period from 2009-2019.
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graph indicates that there was no change in this indicator during the study period (a slight change).
+
+Credit facilities/total assets
+The following figure shows the total credit facilities to the total assets of the banking sector during the period from 2009-2019.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graph indicates an increase in this indicator during the study period, as it increased from (27%) in 2009 to (52%) in 2019.
+
+Credit facilities/customer deposits
+
+The following figure shows the total credit facilities to the total deposits of the banking sector during the period 2009-2019.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graph indicates an increase in this indicator during the study period, as it increased from (34%) in 2009 to (66%) in 2019.
+
+Profitability Indicators
+
+Net interest and commission income/total revenue
+The following figure shows the net interest and commission income to the total banking sector revenues during the period from 2009-2019.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graphic indicates that this indicator is increasing, as it increased from (69%) in 2009 to (88%) in 2019, which means that the revenues and profits of the banking sector depend largely on the interest and commissions obtained from credit facilities.
+
+Return on equity
+The following figure shows the path of return on equity during the period from 2009-2019.
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graphic indicates that the return on shareholders' equity for the banking sector is declining, as it was (10.67%) in 2009 and declined to (8.9%) in 2019.
+
+Volume Indicators
+• Total Assets/ Branch
+• Total customer deposits / branch 
+• Total credit facilities/branch
+The following table shows the distribution of total assets, customer deposits and total credit facilities for each branch.
+
+Source: Palestinian Monetary Authority / annual reports
+
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+
+Source: Palestinian Monetary Authority / annual reports
+
+The graph shows that the banking sector assets index for each branch increased by 31% between 2009 and 2019. The total customer deposits index for each branch increased by 28% between 2009 and 2019, and the total credit facilities index for each branch increased by (146%) between 2009 and 2019.
+
+Chapter Three
+Research Methodology
+
+This study aimed to investigate the impact of the banking sector on economic growth in Palestinian territories, that was measured by the GDP during the period 2009–2019. The researcher measured the impact of the banking sector on economic growth in Palestinian territories by choosing explanatory six independent variables namely (total assets, profitability, net direct facilities, customer deposits, ratio of facilities to deposits, ratio of facilities to assets). These variables are indicators of the banking sector and its effect on economic 
+The descriptive and analytical approach using statistical data has been adopted from its official sources (Palestinian Statistics Center, Palestine Monetary Authority, Capital Market Authority, Association of Banks in Palestine), face-to-face interviews were conducted with finance managers in the banking sector, the private sector and some related institutions, to find out the risks faced by the banking sector and the obstacles facing the productive sectors in obtaining the necessary financing from the banking sector.
+The economic growth data analyzed by calculating the value of the change in GDP, per capita GDP as fixed variables, and the banking sector data as independent variables (total assets, profitability, net direct facilities, customer deposits, ratio of facilities to deposits, ratio of facilities to assets).
+ It was adopted the SPSS program to analyze data and gain access to the relationship between variables, also, previous studies in this field were used to identify aspects and dimensions of the study problem.
+
+Research Tools
+
+This study looks for the impact of the banking sector on economic growth in the Palestinian territories for the period (2009-2019), this period was adopted due to the presence of financial stability coinciding with the restructuring of the Monetary Authority in this period, official statistical data issued by the Palestinian Statistics Center, the Palestinian Monetary Authority, the Capital Market Authority, and the Association of Banks in Palestine were approved as data sources.
+
+Potential Obstacles
+
+The study adopted the role of the banking sector on economic growth in Palestine as a single variable that affects economic growth, this is due to the weakness of other financial sectors and their limited impact on economic growth Such as the stock market, bonds, mortgage, leasing, and the specialized lending institutions market. Also, the lack of complete data for all the study statistics for long periods has determined the study period from 2009-2019. 
+In addition to the difficulty of communicating with the facility in the Gaza Strip Because a large part of it stopped working recently, And the lack of a part of them in providing data regarding their facility and the size and source of funding for this facility.
+
+Data Collection
+
+The data used for the study were from annual reports for the selected banks. The study necessitates looking into financial statements and notes to financial statements in the annual reports of the banks. In Palestine, banks must submit their annual reports to the Monetary Authority in this period, official statistical data issued by the Palestinian Statistics Center, the Palestinian Monetary Authority, the Capital Market Authority, and the Association of Banks in Palestine, so it’s easy to get all annual reports of selected banks from the PMA and online.
+
+The consolidated data of the Palestinian banking sector, which was obtained from official sources (the Palestinian Monetary Authority), was used, where the consolidated balance sheet data of the banks were used as assets, liabilities and shareholders’ equity, and the consolidated income statement data as interest income, commissions and net profit, and statistical data on the banking sector were used as a number Banks, branches, ATMs, and bank accounts.
+
+
+
+
+Chapter Four
+Study Analysis and Result
+     This chapter illustrated the result of the impact of the Palestinian banking sector in stimulate economic growth during the period 2009-2019, the present study emerged out of the data analysis. The descriptive statistics in terms of utilizing linear regression.
+     The main question:  what is the impact of the banking sector on stimulate economic growth in Palestinian territories by choosing explanatory independent variables namely (total assets, profitability, net direct facilities, customer deposits, ratio of facilities to deposits, ratio of facilities to assets)?
+To test the impact of the banking sector on stimulate economic growth in Palestinian territories by choosing explanatory independent variables namely (total assets, profitability, net direct facilities, customer deposits, ratio of facilities to deposits, ratio of facilities to assets), we need to do the linear regression test according to every independent variable.
+The first question:  what is the impact of the banking sector total assets on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector total assets on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector total assets on stimulate economic growth in Palestinian territories.
+Table (4.1) shows the correlation between the banking sector total assets on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate1.956a0.910.90889.52a Predictors: (Constant), Assets
+The above table shows that the correlation between the banking sector total assets on stimulate economic growth in Palestine equals (0.96) which is high, adjusted R square equals (0.90), which means the banking sector total assets explains (90%) of the variation of economic growth in Palestinian territories.
+Table (4.2) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression75632179.33175632179.395.585
+ .000b
+ Residual7121264.459791251.605Total82753443.7810 
+a Dependent Variable: GDPb Predictors: (Constant), Assets
+Table (4.2) shows that the model is significant, which means the relationship between the banking sector total assets and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.3) the regression coefficients of the banking sector total assets 
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)2925.131106.112.650.03Banking sector total assets0.880.090.969.780.00    Dependent Variable: GDP 
+ Table (4.3) shows the coefficient of the banking sector total assets, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector total assets equals (0.88).
+The second question: what is the impact of the banking sector profitability on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector profitability on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector profitability on stimulate economic growth in Palestinian territories.
+Table (4.4) shows the correlation between the banking sector profitability on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.860.740.711559.24a Predictors: (Constant), profitability
+The above table shows that the correlation between the banking sector profitability on stimulate economic growth in Palestinian territories equals (0.86) which is high, adjusted R square equals (0.71), which means the banking sector profitability explains (71%) of the variation of economic growth in Palestinian territories.
+Table (4.5) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression60872312.49160872312.4925.04
+0.00a
+Residual21881131.2992431236.81Total82753443.7810
+a Dependent Variable: GDPb Predictors: (Constant), profitability
+
+Table (4.5) shows that the model is significant, which means the relationship between the banking sector profitability and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+Table (4.6) the regression coefficients of the banking sector probability 
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-3516.083416.50-1.030.33Banking sector profitability118.4823.680.865.000.00    Dependent Variable: GDP 
+ Table (4.6) shows the coefficient of the banking sector profitability, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector profitability equals (118.48).
+Question three: what is the impact of the banking sector net direct facilities on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector net direct facilities on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector net direct facilities on stimulate economic growth in Palestinian territories.
+Table (4.7) shows the correlation between the banking sector net direct facilities on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.960.920.91873.75a Predictors: (Constant), net direct facilities
+The above table shows that the correlation between the banking sector net direct facilities on stimulate economic growth in Palestinian territories equals (0.96) which is high, adjusted R square equals (0.91), which means the banking sector net direct facilities explains (91%) of the variation of economic growth in Palestinian territories.
+Table (4.8) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression75882558.6617588255999.397.000aResidual6870885.119763431.7Total82753443.7810
+a Dependent Variable: GDPb Predictors: (Constant), net direct facilities
+Table (4.8) shows that the model is significant, which means the relationship between the banking sector net direct facilities and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+Table (4.9) the regression coefficients of the banking sector net direct facilities
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)6895.51705.159.780.00Banking sector net direct facilities1.190.120.969.970.00    Dependent Variable: GDP 
+Table (4.9) shows the coefficient of the banking sector net direct facilities, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector net direct facilities equals (1.19).
+
+Question four: what is the impact of the banking sector customer deposits on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector customer deposits on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector customer deposits on stimulate economic growth in Palestinian territories.
+Table (4.10) shows the correlation between the banking sector customer deposits on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.940.890.881016.38a Predictors: (Constant), customer depositsThe above table shows that the correlation between the banking sector customer deposits on stimulate economic growth in Palestinian territories equals (0.94) which is high, adjusted R square equals (0.88), which means the banking sector customer deposits explains (88%) of the variation of economic growth in Palestinian territories.
+
+Table (4.11) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression73456190.1617345619071.110.00Residual9297253.61991033028Total82753443.7810
+a Dependent Variable: GDPb Predictors: (Constant), customer deposits
+Table (4.11) shows that the model is significant, which means the relationship between the banking sector customer deposits and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.12) the regression coefficients of the banking customer deposits
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)3036.311268.552.390.04Banking sector customer deposits1.110.130.948.430.00Dependent Variable: GDP 
+Table (4.12) shows the coefficient of the banking sector customer deposits, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector customer deposits equals (1.11).
+Question five: what is the impact of the banking sector ratio of facilities to deposits on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector ratio of facilities to deposits on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector ratio of facilities to deposits on stimulate economic growth in Palestinian territories.
+
+Table (4.13) shows the correlation between the banking sector ratio of facilities to deposits on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.970.940.94731.57a Predictors: (Constant), ratio of facilities to deposits
+The above table shows that the correlation between the banking sector ratio of facilities to deposits on stimulate economic growth in Palestinian territories equals (0.97) which is high, adjusted R square equals (0.94), which means the banking sector ratio of facilities to deposits explains (94%) of the variation of economic growth in Palestinian territories.
+
+Table (4.14) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression77936719.16177936719.16145.62
+0.00
+Residual4816724.629535191.62Total82753443.7810
+a Dependent Variable: GDPb Predictors: (Constant), ratio of facilities to deposits
+Table (4.14) shows that the model is significant, which means the relationship between the banking sector ratio of facilities to deposits and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.15) the regression coefficients of the banking ratio of facilities to deposits
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-1179.091229.46-0.960.36Banking sector ratio of facilities to deposits26277.052177.510.9712.070.00    Dependent Variable: GDP 
+Table (4.15) shows the coefficient of the banking sector ratio of facilities to deposits, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector ratio of facilities to deposits equals (26277.05).
+Question six: what is the impact of the banking sector ratio of facilities to assets on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector ratio of facilities to assets on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector ratio of facilities to assets on stimulate economic growth in Palestinian territories.
+
+
+Table (4.16) shows the correlation between the banking sector ratio of facilities to assets on stimulate economic growth in Palestinian territories
+
+RR SquareAdjusted R SquareStd. Error of the Estimate0.970.950.94713.54The above table shows that the correlation between the banking sector ratio of facilities to assets on stimulate economic growth in Palestinian territories equals (0.97) which is high, adjusted R square equals (0.94), which means the banking sector ratio of facilities to assets explains (94%) of the variation of economic growth in Palestinian territories.
+Table (4.17) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression78171140.62178171140.62153.530.00Residual4582303.159509144.80Total82753443.7810
+a Dependent Variable: GDPb Predictors: (Constant), ratio of facilities to assets
+Table (4.17) shows that the model is significant, which means the relationship between the banking sector ratio of facilities to assets and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.18) the regression coefficients of the banking ratio of facilities to assets
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-1231.691201.60-1.030.33Banking sector ratio of facilities to assets33851.132731.940.9712.390.00    Dependent Variable: GDP 
+Table (4.18) shows the coefficient of the banking sector ratio of facilities to assets, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector ratio of facilities to assets equals (33851.13).
+Question seven: what is the impact of the banking sector number of accounts per 1000 on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector number of accounts per 1000 on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector number of accounts per 1000 on stimulate economic growth in Palestinian territories.
+Table (4.19) shows the correlation between the banking sector number of accounts per 1000 on stimulate economic growth in Palestinian territories
+
+RR SquareAdjusted R SquareStd. Error of the Estimate0.880.770.741005.63
+The above table shows that the correlation between the banking sector number of accounts per 1000 on stimulate economic growth in Palestinian territories equals (0.88) which is high, adjusted R square equals (0.74), which means the banking sector number of accounts per 1000 explains (74%) of the variation of economic growth in Palestinian territories.
+
+Table (4.20) shows the efficiency test of this model using (ANOVA) test
+
+ModelSum of SquaresdfMean SquareFSig.Regression24171992.30124171992.3023.90
+0.00
+Residual7079097.7271011299.67Total31251090.028
+a Dependent Variable: GDPb Predictors: (Constant), number of accounts per 1000
+Table (4.20) shows that the model is significant, which means the relationship between the banking sector number of accounts per 1000 and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+Table (4.21) the regression coefficients of the banking number of accounts per 1000
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-13079.635635.63-2.320.05Banking sector number of accounts per 100041.468.480.884.890.00    Dependent Variable: GDP 
+Table (4.21) shows the coefficient of the banking sector number of accounts per 1000, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector number of accounts per 1000 equals (41.46).
+
+Question eight: what is the impact of the banking sector number of branches on stimulate economic growth in Palestinian territories?
+To answer the above question a null hypothesis test is needed:
+H0: There is no statistically significant impact at the level of (??0.05) of the banking sector number of branches on stimulate economic growth in Palestinian territories. 
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of the banking sector number of branches on stimulate economic growth in Palestinian territories.
+Table (4.22) shows the correlation between the banking sector number of branches on stimulate economic growth in Palestinian territories
+
+RR SquareAdjusted R SquareStd. Error of the Estimate0.920.840.821209.17
+The above table shows that the correlation between the banking sector number of branches on stimulate economic growth in Palestinian territories equals (0.92) which is high, adjusted R square equals (0.82), which means the banking sector number of branches explains (82%) of the variation of economic growth in Palestinian territories.
+Table (4.23) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression69594662.291.0069594662.2947.60
+0.00
+Residual13158781.499.001462086.83Total82753443.7810.00
+a Dependent Variable: GDPb Predictors: (Constant, number of branches
+Table (4.23) shows that the model is significant, which means the relationship between the banking sector number of branches and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.24) the regression coefficients of the banking number of branches
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)1034.371831.380.570.59Banking sector number of branches45.186.550.926.900.00    Dependent Variable: GDP 
+Table (4.24) shows the coefficient of the banking sector number of branches, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the banking sector number of branches equals (45.18).
+In the analysis of credit facilities by productive sector and the linkage of financing each productive sector to economic growth, the following analysis shows the linkage of financing each productive sector and its relationship to economic growth.
+
+1-H0: There is no statistically significant impact at the level of (??0.05) of agriculture and fishing credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of agriculture and fishing credit on stimulate economic growth in Palestinian territories.
+
+
+
+
+Table (4.25) shows the correlation between agriculture and fishing credit on stimulate economic growth in Palestinian territories on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.840.700.6777.17a Predictors: (Constant), agriculture and fishing credit
+The above table shows that the correlation between agriculture and fishing credit on stimulate economic growth in Palestine equals (0.84) which is high, adjusted R square equals (0.67), which means agriculture and fishing credit explains (67%) of the variation of economic growth in Palestinian territories.
+Table (4.26) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression124434.51124434.520.895
+.001
+Residual53595.9595955.106Total178030.410
+a. Predictors: (Constant), Agriculture Bb. Dependent Variable: Agriculture G
+Table (4.26) shows that the model is significant, which means the relationship between agriculture and fishing credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+Table (4.27) the regression coefficients of agriculture and fishing credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)861.1546.1418.660.00agriculture and fishing credit2.360.520.844.570.00    Dependent Variable: GDP 
+ Table (4.27) shows the coefficient of agriculture and fishing credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the agriculture and fishing credit equals (2.36).
+2- H0: There is no statistically significant impact at the level (??0.05) of mining, manufacturing, electricity, and waste credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of mining, manufacturing, electricity, and waste credit on stimulate economic growth in Palestinian territories.
+Table (4.28) shows the correlation between mining, manufacturing, electricity, and waste credit on stimulate economic growth in Palestinian territories on stimulate economic growth in Palestinian territories
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.730.530.48239.78a Predictors: (Constant), mining, manufacturing, electricity, and waste creditThe above table shows that the correlation between mining, manufacturing, electricity, and waste credit on stimulate economic growth in Palestine equals (0.73) which is high, adjusted R square equals (0.48), which means mining, manufacturing, electricity, and waste credit explains (48%) of the variation of economic growth in Palestinian territories.
+Table (4.29) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression5936841593684.36510.326
+0.011
+Residual517433957492.553Total111111710
+a. Predictors: (Constant), mining, manufacturing, electricity, and waste credit Bb. Dependent Variable:  mining, manufacturing, electricity, and waste credit G
+Table (4.29) shows that the model is significant, which means the relationship between mining, manufacturing, electricity, and waste credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+Table (4.30) the regression coefficients of mining, manufacturing, electricity, and waste credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)1080.55235.764.580.00mining, manufacturing, electricity, and waste credit2.420.750.733.210.01    Dependent Variable: GDP 
+
+ Table (4.30) shows the coefficient of mining, manufacturing, electricity and waste credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the mining, manufacturing, electricity, and waste credit equals (2.42).
+
+3-H0: There is no statistically significant impact at the level (??0.05) of construction credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of construction credit on stimulate economic growth in Palestinian territories.
+Table (4.31) shows the correlation between construction credit on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.9540.910.90163.7062a Predictors: (Constant), construction credit
+The above table shows that the correlation between construction credit on stimulate economic growth in Palestine equals (0.95) which is high, adjusted R square equals (0.90), which means construction credit explains (90%) of the variation of economic growth in Palestinian territories.
+
+Table (4.32) shows the efficiency test of this model using (ANOVA) test
+
+ModelSum of SquaresdfMean SquareFSig.Regression24487921244879291.374
+0.00
+Residual241197.4926799.71Total268998910
+a. Predictors: (Constant), construction Bb. Dependent Variable:  construction G
+Table (4.32) shows that the model is significant, which means the relationship between construction credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.33) the regression coefficients of construction credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-554.599159.679-3.4730.007construction credit2.170.2270.9549.5590    Dependent Variable: GDP 
+
+ Table (4.33) shows the coefficient of construction credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the construction credit equals (2.17).
+
+4-H0: There is no statistically significant impact at the level (??0.05) of wholesale and retail trade credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of wholesale and retail trade credit on stimulate economic growth in Palestinian territories.
+Table (4.34) shows the correlation between wholesale and retail trade credit on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.9490.90.889271.9173a Predictors: (Constant), wholesale and retail trade credit
+The above table shows that the correlation between wholesale and retail trade credit on stimulate economic growth in Palestine equals (0.95) which is high, adjusted R square equals (0.90), which means the wholesale and retail trade credit explains (90%) of the variation of economic growth in Palestinian territories.
+
+Table (4.35) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression60195401601954081.412
+0
+Residual665451.3973939.03Total668499110
+a. Predictors: (Constant), wholesale and retail trade Bb. Dependent Variable:  wholesale and retail trade GTable (4.35) shows that the model is significant, which means the relationship between wholesale and retail trade credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.36) the regression coefficients of wholesale and retail trade credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)1163.679182.2646.3850wholesale and retail trade credit1.6770.1860.9499.0230    Dependent Variable: GDP 
+ Table (4.36) shows the coefficient of the wholesale and retail trade credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the wholesale and retail trade credit equals (1.677).
+
+5-H0: There is no statistically significant impact at the level (??0.05) of transportation and storage credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of transportation and storage credit on stimulate economic growth in Palestinian territories.
+
+Table (4.37) shows the correlation between transportation and storage credit on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.6480.4210.35644.4045a Predictors: (Constant), transportation and storage creditThe above table shows that the correlation between transportation and storage credit on stimulate economic growth in Palestine equals (0.65), adjusted R square equals (0.36), which means the transportation and storage credit explains (36%) of the variation of economic growth in Palestinian territories.
+
+Table (4.38) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression12879.2112879.26.532
+0.031
+Residual17745.891971.76Total3062510
+a. Predictors: (Constant), transportation and storage Bb. Dependent Variable:  transportation and storage G
+Table (4.38) shows that the model is significant, which means the relationship between transportation and storage credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.39) the regression coefficients of transportation and storage credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)81.84461.8241.3240.218transportation and storage credit5.8392.2850.6482.5560.031    Dependent Variable: GDP 
+
+ Table (4.39) shows the coefficient of the transportation and storage credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the transportation and storage credit equals (5.839).
+
+6-H0: There is no statistically significant impact at the level (??0.05) of financial and insurance activities credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of financial and insurance activities credit on stimulate economic growth in Palestinian territories.
+
+Table (4.40) shows the correlation between financial and insurance activities credit on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.500.250.17133.57a Predictors: (Constant), Financial and insurance activities credit
+The above table shows that the correlation between financial and insurance activities credit on stimulate economic growth in Palestine equals (0.50), adjusted R square equals (0.17), which means the Financial and insurance activities credit explains (17%) of the variation of economic growth in Palestinian territories.
+
+Table (4.41) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression54193.961.0054193.963.04
+0.12
+Residual160575.299.0017841.70Total214769.2510.00
+a. Predictors: (Constant), insurance activities credit Bb. Dependent Variable:   insurance activities credit G
+Table (4.41) shows that the model is not significant, which means the relationship between financial and insurance activities credit and stimulate economic growth in Palestinian territories is not statistically reliable and significant.
+7-H0: There is no statistically significant impact at the level (??0.05) of transportation and storage credit on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of transportation and storage credit on stimulate economic growth in Palestinian territories.
+Table (4.42) shows the correlation between transportation and storage credit on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.6480.4210.35644.4045a Predictors: (Constant), transportation and storage credit
+The above table shows that the correlation between transportation and storage credit on stimulate economic growth in Palestine equals (0.65), adjusted R square equals (0.36), which means the transportation and storage credit explains (36%) of the variation of economic growth in Palestinian territories.
+
+
+Table (4.43) shows the efficiency test of this model using (ANOVA) test
+
+ModelSum of SquaresdfMean SquareFSig.Regression12879.2112879.26.532
+0.031
+Residual17745.891971.76Total3062510
+a. Predictors: (Constant), transportation and storage Bb. Dependent Variable:  transportation and storage G
+Table (4.43) shows that the model is significant, which means the relationship between transportation and storage credit and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.44) the regression coefficients of transportation and storage credit
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)81.84461.8241.3240.218transportation and storage credit5.8392.2850.6482.5560.031    Dependent Variable: GDP 
+
+ Table (4.44) shows the coefficient of the transportation and storage credit, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the transportation and storage credit equals (5.839).
+
+
+
+
+8-H0: There is no statistically significant impact at the level (??0.05) of accommodation and food service activities on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of accommodation and food service activities on stimulate economic growth in Palestinian territories.
+
+Table (4.45) shows the correlation between accommodation and food service activities on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.800.640.6047.34a Predictors: (Constant), accommodation and food service activities
+The above table shows that the correlation between accommodation and food service activities on stimulate economic growth in Palestine equals (0.80), adjusted R square equals (0.60), which means the accommodation and food service activities explains (60%) of the variation of economic growth in Palestinian territories.
+Table (4.46) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression35504.58135504.5815.85
+0.00
+Residual20165.8292240.65Total55670.4010
+a. Predictors: (Constant), accommodation and food service activities Bb. Dependent Variable:   accommodation and food service activities G
+Table (4.46) shows that the model is significant, which means the relationship between accommodation and food service activities and stimulate economic growth in Palestinian territories is statistically reliable and significant.
+
+Table (4.47) the regression coefficients of accommodation and food service activities
+
+Parameters
+ Unstandardized CoefficientsStandardized Coefficientst
+ Sig.
+ BStd. ErrorBeta(Constant)-35.4059.27-0.600.57accommodation and food service activities3.520.890.803.980.00    Dependent Variable: GDP 
+
+ Table (4.47) shows the coefficient of the accommodation and food service activities, this factor is significantly affected the stimulate economic growth in Palestinian territories, the B value of the accommodation and food service activities equals (3.52).
+
+9-H0: There is no statistically significant impact at the level (??0.05) of Information and communication on stimulate economic growth in Palestinian territories.  
+To test the null hypothesis, we need to test the significance of the linear regression model to know the impact of Information and communication on stimulate economic growth in Palestinian territories.
+
+Table (4.48) shows the correlation between Information and communication on stimulate economic growth in Palestinian territories 
+
+ModelRR SquareAdjusted R SquareStd. Error of the Estimate10.460.220.1368.00a Predictors: (Constant), Information and communication
+The above table shows that the correlation between Information and communication on stimulate economic growth in Palestine equals (0.46), adjusted R square equals (0.13), which means the Information and communication explains (13%) of the variation of economic growth in Palestinian territories.
+Table (4.49) shows the efficiency test of this model using (ANOVA) test
+ModelSum of SquaresdfMean SquareFSig.Regression11376.72111376.722.46
+0.15
+Residual41616.3794624.04Total52993.0910
+a. Predictors: (Constant), Information and communication Bb. Dependent Variable:   Information and communication G
+Table (4.49) shows that the model is not significant, which means the relationship between Information and communication and stimulate economic growth in Palestinian territories is not statistically reliable and significant.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chapter Five
+
+Results and Recommendations
+
+Results: 
+? The results indicate that the banking sector, despite the decrease in the number of banks operating in the Palestinian territories during the period from 2009-2019, the spread of the banking sector is increasing through quantitative indicators such as the number of branches, ATMs, and bank accounts, which indicates the ability of the banking sector to actively contribute to financial inclusion.
+? The results indicate that the banking sector has succeeded in mobilizing the necessary savings for the lending process, through the indicator of the increase in deposits in the banking sector, Where the results indicate that a high percentage of deposits without interest, which helps the banking sector in pumping credit facilities at acceptable and reduced interest rates, in addition to that it leads to an increase in the profitability of the banking sector, Also, the other part, on which interest is paid within medium or long-term deposits, contributes to raising the ability of the banking system to plan credit facilities based on the term of deposits.
+? The results indicate that there is a significant positive relationship between the development of the banking sector and economic growth through the strong relationship between credit facilities and their relationship to the gross domestic product, this means that the banking sector contributes to financing economic activity through funds directed to the private sector.
+?  The results indicate a development in the profitability of the banking sector, and a significant relationship with the gross domestic product, As the increase in profitability indicates an increase in the return on capital, as well as the ability of the banking sector to harmonize between the cost of the money it keeps and the prices of selling these funds to the private sector, In order to serve its ability to create an acceptable profit on capital and to serve the private sector by financing it with the necessary credit facilities within acceptable prices that contribute to the development of the economy.
+? The results indicate the development of the banking sector's assets and shareholders' rights, and this leads to the strength of this sector, so that it is able to absorb any shocks that may arise as a result of political and security instability in the Palestinian territories.
+? The results showed that the monetary authority's policy is flexible regarding the distribution of credit facilities to the productive sectors out of the total facilities, However, it was found that the banking sector favors financing the commercial sector and consumer facilities compared to financing the productive sectors (industrial, agricultural, tourism), This is due to the risks to which these sectors are exposed and which lead to the failure of these facilities, The risks related to the political and security affairs related to the Israeli side and the control of the crossings that control the entry of raw materials and the exit of exported goods, and the control of the movement of people from abroad, on which the tourism sector largely depends, As well as the weakness of government policies protecting these sectors in the event of risks, especially in the agricultural sector, and the lack of control of the Palestinian Authority on the occupied lands, especially those classified under Area C, this leads to weak investment in these areas.
+
+Recommendations
+? The focus of the Monetary Authority on stimulating and developing the financial position of the banking sector through the development of regulations and laws regulating the work of the Palestine Monetary Authority and the banking sector and increasing the minimum capital of banks through stimulating merger.
+? Stimulating the banking sector to develop its tools in order to mobilize savings and convert them into productive investments by lending them to the productive sectors.
+? Focus on granting credit facilities to the productive sectors, by increasing these sectors' share of loans, and reducing guarantees for these sectors to obtain the necessary funds.
+? Granting incentive privileges and tax exemptions to the productive sectors that obtain credit facilities in order to reduce the cost of financing for these sectors, to motivate investors to invest in these sectors.
+? The Palestinian Monetary Authority shall provide guarantees to the banking sector through it or through international partners, in order to guarantee the credit facilities provided to the productive sectors.
+? Reducing interest rates on credit facilities for the productive sectors, and for the monetary authority or the government to bear the margin of reduction as a kind of incentives offered by the government in order to develop these sectors to contribute effectively to the gross domestic product.
+Interview Questions
+
+
+1. Does your bank have a credit policy?
+2. Does your credit policy have ceilings for credit facilities for economic sectors?
+3. Is there a preference for one sector over another in your credit policy?
+4. Is there a discrepancy in the interest rates on the facilities between the economic sectors?
+5. Are the instructions of the Monetary Authority regarding the terms of credit facilities an obstacle to the lending process?
+6. What are the challenges you face in the process of lending credit facilities to the productive sectors?
+7. What are the determinants that led to a reduction in the share of credit facilities for the productive sectors out of the total facilities?
+8. What is required in your opinion to increase the share of credit facilities for the productive sectors?
+9. Is there a default in the credit facilities for the productive sectors?
+10. What is the period for repayment of the credit facilities for the productive sectors?
+
+
+
+
+
+
+Bibliography:
+	
+1.	Ban Ali Hussain. (2017). The reality of the Saudi B S and its role in achieving economic growth and the challenges it faces for the period (2006-2016).
+2.	Ali Abdullah Shaheen (2006). The role of the B S in developing the Palestinian economy.
+3.	Hassan Karim Hamza. (2015). The financing role of Iraqi banks in achieving economic growth. Al-Ghari Journal of Economic and Administrative Sciences, 10 (32), 63-103.
+4.	(MAS, 2017) The effect of development on the Palestinian financial system on Palestinian economic growth (2008-2015).
+5.	Abusharbeh, Mohammed. (2017). The Impact of Banking Sector Development on Economic Growth: Empirical Analysis from Palestinian Economy. International Journal of Finance & Economics. 6. 2306-2316.
+6. Rajan, R., &Zingales, L. (1998). Financial development and growth. American Economic Review, 88(3), 559-586.?
+7. Palestinian Monetary Authority/ Annual Reports
+8. Palestinian Statistics Authority / National Accounts
+9. Palestinian Banks Association / Annual Reports
+
+10. ????? ??????? (2008) ? ??? ???? ?????? ?????? ??? ????? ????????? ?? ?????? ?????? (1978-2004) ? ????? ??????? ??? ??????? ??????? ????????? ????? ??????.
+11. ?????? ???? (2003) ? ????? ?????? ?????? ??? ????? ????????? ?? ??????? ??????? ????????? ??? ?????? ???? ????? ????? ??? ??????? ???????? ????????? ?18? ?1? (2004) ? ??????? ????????
+12. ???? ???. ?????? ????????? ?????? ???????????.
+2
+
+
+2
+
+
